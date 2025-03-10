@@ -10,23 +10,14 @@ Evaluation Metrics: Assesses model performance using accuracy, precision, recall
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/Parkinsons-Disease-Detection.git
 cd Parkinsons-Disease-Detection
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Usage
 Run the Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook Parkinson's_Disease_Detection.ipynb
 Follow the steps in the notebook to preprocess the data, train models, and evaluate performance.
 
