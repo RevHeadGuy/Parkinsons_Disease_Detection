@@ -7,15 +7,18 @@ Exploratory Data Analysis (EDA): Visualizes key insights from the dataset.
 Feature Engineering: Selects the most important features for better accuracy.
 Machine Learning Models: Implements different models for classification.
 Evaluation Metrics: Assesses model performance using accuracy, precision, recall, and F1-score.
+
 Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/Parkinsons-Disease-Detection.git
 cd Parkinsons-Disease-Detection
+
 Install dependencies:
 
 pip install -r requirements.txt
 Usage
+
 Run the Jupyter Notebook:
 
 jupyter notebook Parkinson's_Disease_Detection.ipynb
